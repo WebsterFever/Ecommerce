@@ -1,6 +1,7 @@
 //function showAlert() {
    // alert("Button clicked!");
-//}
+// javascript}
+
 
 let menuBurger = document.querySelector('.menu-burger');
 let headerMenu = document.querySelector('.header-menu');
