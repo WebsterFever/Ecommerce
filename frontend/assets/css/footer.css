@@ -1,0 +1,15 @@
+footer {
+  background-color: black;
+}
+
+.footer-menu,
+.footer-contacts,
+.footer-bottom {
+  padding: 48px 0;
+}
+
+.footer-contacts{
+    border-top: 1px solid rgba(255, 255, 255, 0.24) ;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.24) ;
+}
+
