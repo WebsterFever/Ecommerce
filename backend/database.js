@@ -1,6 +1,5 @@
 // Importation du module Sequelize pour interagir avec une base de données SQL.
 const { Sequelize } = require("sequelize");
-
 // Chargement des variables d'environnement à partir d'un fichier .env.
 require("dotenv").config();
 
