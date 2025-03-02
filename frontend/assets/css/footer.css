@@ -37,9 +37,25 @@ footer {
   flex-direction: column;
 }
 
+/*new add 03*/
+.footer-title{
+  text-align: center;
+  font-size: 2rem;
+  margin-bottom: 32px;
+}
+
+/*new add 02*/
 .footer-contacts{
   color: white;
 }
+
+/*new add 05*/
+.social .footer-icons{
+  display: flex;
+  justify-content: center;
+  gap: 21px;
+}
+
 
 @media (width > 1024px){
   .footer-menu{
