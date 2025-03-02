@@ -37,6 +37,10 @@ footer {
   flex-direction: column;
 }
 
+.footer-contacts{
+  color: white;
+}
+
 @media (width > 1024px){
   .footer-menu{
        padding-top: 63px;
